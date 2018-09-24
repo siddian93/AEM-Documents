@@ -1,0 +1,40 @@
+
+
+page 193
+step 30 "Header Components" 
+refer to page 190 step 17 header.html script line 1
+
+             <h3>Header Component</h3>
+
+
+page 207
+step 10 Double-click the pagehero.html
+step 11 update the pagehero.html
+step 12 Open the pagehero.html
+
+
+page 211 
+step 37 delete the columns node
+
+page 213
+step 54: sling:resourceType: granite/ui/components/foundation/form/pathbrowser
+
+
+page 215
+step 63 Assets tab and the Hero tab opens as shown
+
+
+page 271 localization
+step 18: String: &copy; {0} All rights reserved.
+
+fr.json 
+add jcr:language, mix:language
+"&copy; {0} All rights reserved.":
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+page 196   header.js
+page 197   log message, 
+page 245   default value for stockplex
+
+
+
