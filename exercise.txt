@@ -1,0 +1,86 @@
+
+Run Mode
+Exercise 1: page 105
+
+Custom Logger
+Exercise 1: page 121	
+Exercise 2: page 125
+
+Deep Dive into OSGi
+Exercise 1: page 144
+Exercise 2: page 147
+   Step 7,8 Create package: com.adobe.training.core.services
+            Create package: com.adobe.training.core.services.impl
+Exercise 3: page 155
+
+Sling Web Framework
+Exercise 1: page 178
+Exercise 2: page 183
+Exercise 3: page 192
+
+Sling Model
+Exercise 1: page 207
+    /content
+    sling:orderedFolder -: 
+        Sling ordered folders just keep the order in which nodes are inserted,  
+        the nodes won’t do any sorting by themselves
+
+Task 3 page 216 step 4
+Edit SlingModelServlet.java  ( SlingModelServlet_P2.java )
+Exercise 2: page 220
+Exercise 3: page 237			Search
+
+
+Event Handlering
+Exercise 1: page 245
+Exercise 2: page 253
+Exercise 3: page 257			Cleanup Task
+   Configure the Cleanup scheduler task
+Exercise 3: page 267
+   typo: step 7 /content/trainingproject
+
+
+Deep Dive into AEM APIs
+Exercise 1: page 276			Polling importer
+Exercise 2: page 286			create a page
+    Task 2, step 4 right click /content
+Exercise 3: page 293			Create AEM page
+Exercise 4: page 302			Create a sample project
+Exercise 5: page 305			Create a project template
+Exercise 6: page 316			Execute a workflow
+Exercise 7: page 319			Build and test a workflow
+   typo: page 326, step 28: Select the Process tab
+   typo: page 328, step 2 double click Pages for Publishing Project
+Exercise 8: page 335			Customise the process step
+
+
+ACL
+Exercise 1: page 352			Create a new user
+Exercise 2: page 355			Create a new group
+Exercise 3: page 358			Add user to the group
+Exercise 4: page 360			custom AEM project with ACL automation
+
+
+Test
+Exercise 1: page 383			Unit Test
+Exercise 2: page 386			Create unit tests using Sling Mocks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
